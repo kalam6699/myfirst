@@ -1,2 +1,1 @@
-# myfirst this is my first readme file
-from master
+# myfirst this is my first readme 
